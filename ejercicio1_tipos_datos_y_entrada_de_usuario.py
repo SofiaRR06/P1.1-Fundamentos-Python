@@ -5,3 +5,8 @@ altura = float(input("Introduce tu edad en metros: "))
 
 #Mostramos el texto de ejemplo
 print(f"Hola {nombre}, tienes {edad} años y mides {altura} metros.")
+
+#Mostramos el tipo de cada variable
+print(type(nombre))
+print(type(edad))
+print(type(altura))
